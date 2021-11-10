@@ -16,7 +16,7 @@
         <h4 class="heading" style="margin-left: 15px;"><?= __('Adicionar') ?> </h4>    
             <div class="container">
                 <a href="http://localhost/vagascake/departamentos/add">Departamento</a> <br>
-                <a href="http://localhost/vagascake/departamentos/add">Empresa</a>
+                <a href="http://localhost/vagascake/departamentos/add">Empresa</a> <br>
                 <a href="http://localhost/vagascake/estabelecimentos-empresas/add"> Estabelecimentos Empresa   </a>
             </div>  
             
